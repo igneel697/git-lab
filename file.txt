@@ -3,3 +3,4 @@ line from main
 =======
 Line from feature
 >>>>>>> feature1
+This is feature2 content
